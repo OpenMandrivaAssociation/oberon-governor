@@ -1,6 +1,6 @@
 Name:          oberon-governor
 Version:       0.1
-Release:       1
+Release:       2
 Summary:       GPU governor for the AMD BC-250
 URL:           https://gitlab.com/mothenjoyer69/oberon-governor.git
 License:       GPLv3
